@@ -9,4 +9,4 @@
 7) cd ../frontends
 8) launch the game: python -m console
 
-Moves are entered as <Column><Row>. Human player starts with X and starts first.
+Moves are entered as -Column-Row-. Human player starts with X and starts first.
